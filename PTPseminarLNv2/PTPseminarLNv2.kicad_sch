@@ -3474,7 +3474,7 @@
 				)
 			)
 			(property "Footprint" "Library:XCVR_SIM808"
-				(at 0 0 0)
+				(at 0 -4.572 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3483,8 +3483,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Datasheet" "https://www.snapeda.com/parts/SIM808/SIMCom/view-part/?ref=snap"
+				(at -0.254 2.794 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3492,8 +3492,8 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
+			(property "Description" "SIM808 GPS, GPRS/GSM RF mikroBUS™ Click™ Platform Evaluation Expansion Board"
+				(at 0 -1.778 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3501,8 +3501,8 @@
 					(hide yes)
 				)
 			)
-			(property "MF" "SIMcom Wireless  solutions Co.,Ltd"
-				(at 0 0 0)
+			(property "Manufacturer" "SIMcom Wireless  solutions Co.,Ltd"
+				(at 0.254 6.096 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3511,113 +3511,12 @@
 					(hide yes)
 				)
 			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "2.8mm"
-				(at 0 0 0)
+			(property "Manufacturer part number" "XCVR_SIM808"
+				(at -0.254 0.508 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/SIM808/SIMCom/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "1.03"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/SIM808/SIMCom/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "SIM808"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "SIM808 GPS, GPRS/GSM RF mikroBUS™ Click™ Platform Evaluation Expansion Board"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "SIMCOM"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
@@ -9744,7 +9643,7 @@
 			)
 		)
 		(property "Footprint" "Library:XCVR_SIM808"
-			(at 46.99 73.66 0)
+			(at 46.99 78.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9754,7 +9653,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.snapeda.com/parts/SIM808/SIMCom/view-part/?ref=snap"
-			(at 46.99 73.66 0)
+			(at 46.736 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9763,7 +9662,7 @@
 			)
 		)
 		(property "Description" "SIM808 GPS, GPRS/GSM RF mikroBUS™ Click™ Platform Evaluation Expansion Board"
-			(at 46.99 73.66 0)
+			(at 46.99 75.438 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9772,7 +9671,7 @@
 			)
 		)
 		(property "Manufacturer" "SIMcom Wireless  solutions Co.,Ltd"
-			(at 46.99 73.66 0)
+			(at 47.244 67.564 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9782,7 +9681,7 @@
 			)
 		)
 		(property "Manufacturer part number" "XCVR_SIM808"
-			(at 46.99 73.66 0)
+			(at 46.736 73.152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
